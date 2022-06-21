@@ -13,7 +13,7 @@
 		<jstl-version>1.2</jstl-version>
 		<lombok-version>1.18.10</lombok-version>
 		<hibernate-version>5.4.9.Final</hibernate-version>
-		<mysql-connector-version>8.0.18</mysql-connector-version>
+		<mysql-connector-version>8.0.28</mysql-connector-version>
 		<maven-compiler-version>3.8.0</maven-compiler-version>
 		<java-version>11</java-version>
 	</properties>
